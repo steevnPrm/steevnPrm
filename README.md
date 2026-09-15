@@ -3,7 +3,6 @@
 Développeur Fullstack orienté **performance** et **scalabilité**, spécialisé en **Data / Cloud**.
 Je conçois des architectures robustes et je privilégie une approche "Design-First" pour garantir des systèmes maintenables sur le long terme.
 
-Actuellement en recherche d'une opportunité en **alternance ou stage pour 2026**.
 
 ---
 
